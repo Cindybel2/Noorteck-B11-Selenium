@@ -50,6 +50,7 @@ public class Exercise1 extends Hooks{
 		//Close Browser 
 		driver.close();
 		
+		//PUSH
 		
 		tearDown();
 	}
