@@ -51,6 +51,8 @@ public class Exercise1 extends Hooks{
 		driver.close();
 		
 		
+		//PUSH
+		
 		tearDown();
 	}
 
