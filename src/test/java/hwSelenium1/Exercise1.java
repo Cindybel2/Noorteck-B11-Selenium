@@ -52,8 +52,6 @@ public class Exercise1 extends Hooks{
 		
 		//PUSH
 		
-		//PUSH
-		
 		tearDown();
 	}
 
